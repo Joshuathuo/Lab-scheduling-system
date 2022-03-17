@@ -28,7 +28,8 @@
     margin: 0 auto;
     padding: o 50px;
 }
-#navbar__logo{
+#navbar__logo
+{
     background-color: #a01107;
     background-image: linear-gradient(to top,#f1071a 0%,#fc048c 100%);
     background-size: 100%;
@@ -48,10 +49,12 @@
     align-items: center;
     list-style: none;
 }
-navbar__item{
+navbar__item
+{
     height: 80px;
 }
-.navbar__links{
+.navbar__links
+{
 color: #fff;
 display: flex;
 align-items: center;
@@ -62,14 +65,16 @@ height: 100%;
 transition: all 0.3s ease;
 }
 
-.navbar__btn{
+.navbar__btn
+{
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 0 1rem;
     width: 100%;
 }
-.button{
+.button
+{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -87,7 +92,8 @@ transition: all 0.3s ease;
     transition: all 0.3s ease;
 }  
 
-.navbar__links:hover{
+.navbar__links:hover
+{
     color: #9518fc;
     transition: all 0.3s ease;
 
